@@ -14,5 +14,8 @@ Error_handling_v3
 lmplementing a Global Error Handling Middleware
 
 Error_handling_v4
-Better Errors and Refactoring 
+Better Errors and Refactoring
+
+Error_handling_v5
+Catching Errors in Async Functions 
 
