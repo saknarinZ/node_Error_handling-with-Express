@@ -22,3 +22,5 @@ Catching Errors in Async Functions
 Error_handling_v6
 Adding 404 Not Found Errors
 
+Error_handling_v7
+Errors During Development vs Production
