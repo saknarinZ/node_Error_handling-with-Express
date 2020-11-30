@@ -19,3 +19,6 @@ Better Errors and Refactoring
 Error_handling_v5
 Catching Errors in Async Functions 
 
+Error_handling_v6
+Adding 404 Not Found Errors
+
