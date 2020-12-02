@@ -24,3 +24,6 @@ Adding 404 Not Found Errors
 
 Error_handling_v7
 Errors During Development vs Production
+
+Error_handling_v8
+Handling lnvalid Database IDs
