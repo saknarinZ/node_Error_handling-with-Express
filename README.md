@@ -27,3 +27,6 @@ Errors During Development vs Production
 
 Error_handling_v8
 Handling lnvalid Database IDs
+
+Error_handling_v9
+Handling Duplicate Database Fields
